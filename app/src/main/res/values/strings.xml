@@ -1,0 +1,48 @@
+<resources>
+    <string name="tools_theory_title">Tools</string>
+    <string name="tools_theory_text">Before you start drawing you need to know what tools to use. For beginners I would recommend using hard and soft pencils. With hard pencil, your lines are softer, less visible (ironically). Soft pencils are bolder and more visible, better for adding darker spots on your sketch.Sharpen your pencil to make thin lines, which can be used for drawing details. Dull pencil will make thick lines which is useful for capturing outlines of objects. Eraser will help get rid of lines that we do not wanted to make. Use it to erase mistakes or guiding lines. Bread eraser will remove some of graphite. Use it to make your sketch lighter.</string>
+    <string name="references_title">References</string>
+    <string name="shapes_theory_title">Shapes</string>
+    <string name="shapes_theory_text">There are 3 main shapes: triangle, square and rectangle. This are 2D shapes. The 3D shapes are more commonly use and are around us. These are: sphere, pyramid, cylinder, cuboid. All things that surround us are made of them: tables, chairs, pens. It is important to learn to see this simpler shapes in more sophisticated ones. Also try to notice where are lighter and darker spots on these. The sphere has the lightest spot in circular shape in place, where it is the closest to light source. Cylinder has it on side. Cuboid in the center.Notice that shadow that they cast depends on light source position. If it is closer to ground, these cast longer shadows, if above them - shorter. If light is low-intensity, shadows are lighter. In case, when light is intese they cast darker shadows, that are almost black.</string>
+    <string name="stillLife_theory_title">Still Life</string>
+    <string name="stillLife_theory_text">Still Life is one of the best type of painting to practice use of value, chiaroscuro and composition. The term describes a work of art that shows inanimate objects from the natural or man-made world, such as fruit, flowers or vessels. While drawing still life you learn how to picture different structures by drawing different flowers, wegetables, objects. or materials, how it folds and casts shadows. By drawing it from various angles you learn perspective.</string>
+    <string name="landscape_theory_title">Landscape</string>
+    <string name="landscape_theory_text">Landscape drawing is another step on your way to better drawing. To draw landscapes we need to learn how to draw each elements that it contains. Trees are the most common ones. Notice that they are different shapes of corwn of trees. Birches are slender beeches or oaks are sprawling. Trees may be hard to draw for begginers, their twisted branches are difficult to capture on papper. The best practice is to learn to draw each part seperately: roots, trunk, branches. Easier to learn are bushes, try to capture their outline. Stones and rocks are made of a lot of shapes. The easiest way to draw them it to make a basic outline and then give them structure by marking the darkest and lightest spots.</string>
+
+    <string name="tools_exercise_title">Tools exercises</string>
+    <string name="tools_exercise_text">Try do some perpendicular lanes. Then some crossed ones. You can use soft pencil to draw dots...</string>
+    <string name="shapes_exercise_title">Shapes exercises</string>
+    <string name="shapes_exercise_text">First, try to draw rectangle. For example, you can draw some stacked paper sheets, then find some box. Observe where are the highlights and where are the darkest areas. Use soft pencil e.g. B2 to mark dark spots and use harder pencil e.g. HB to mark areas that are lighter. Leave blank the highlights or use regular rubber to erase graphite. To draw a circle, draw some archs that make circle. Do not try to draw a perfect circle, erase when some lines seems off and keep drawing archs until you will be satisfied with the result. In reference photos see where are highlights. Notice that on bottom side of sphere there are reflections, lighter areas.</string>
+    <string name="stillLife_exercise_title">Still Life exercises</string>
+    <string name="stillLife_exercise_text">If you want you can make your own composition to draw from different angles...</string>
+    <string name="landscape_exercise_title">Landscape exercises</string>
+    <string name="landscape_exercise_text">To draw landscapes we need to learn how to draw each elements...</string>
+
+
+    <string name="prompt_email" translatable="false">your_prompt_email</string>
+    <string name="prompt_password" translatable="false">your_prompt_password</string>
+    <string name="action_sign_in_short" translatable="false">your_sign_in_short</string>
+    <string name="action_sign_in" translatable="false">your_sign_in</string>
+    <string name="app_name">Basics of drawing</string>
+    <string name="welcome_text">Welcome! This is app for learning how to draw</string>
+    <string name="enter_username">Enter your username</string>
+    <string name="register">register</string>
+    <string name="log_continue">Or log in to continue</string>
+    <string name="btn_continue">Let\'s continue</string>
+
+    <string name="hello">Hello </string>
+    <string name="what_learn">What do you want to learn today?</string>
+    <string name="register_toast">Register to use app</string>
+    <string name="enter_name">Please enter your username</string>
+    <string name="added">Added new user</string>
+    <string name="another">Enter another username</string>
+    <string name="btn_tools">Tools</string>
+    <string name="btn_shapes">Shapes</string>
+    <string name="btn_still">Still Life</string>
+    <string name="btn_landscape">Landscape</string>
+    <string name="select">Select chapter</string>
+    <string name="theory">Theory</string>
+    <string name="exercises">Exercises</string>
+    <string name="reference">Reference photoes</string>
+
+</resources>
