@@ -49,7 +49,7 @@ public class AppUserRepository {
             }
         });
     }
-    //to potem
+
     public void delete (AppUser appUser){
         executors.execute(new Runnable() {
             @Override

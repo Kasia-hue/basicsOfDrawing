@@ -54,7 +54,6 @@ public class MainActivity extends AppCompatActivity {
 
         appUser.setUsername(userName);
 
-        //czy mozna kliknac dany przycisk
         check(currentChapter);
 
         tools.setOnClickListener(new View.OnClickListener() {

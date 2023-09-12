@@ -38,7 +38,6 @@ public class AppUserViewModel extends AndroidViewModel {
         repository.delete(appUser);
     }
 
-    //update chapter gdzie jest nazwa
     public void updateChapterForExistingUser (int chapter, String username){
         repository.updateChapterForExistingUser(chapter,username);
     }
